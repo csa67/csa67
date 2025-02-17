@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arathy</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csa67&label=Profile%20views&color=0e75b6&style=flat" alt="csa67" /> </p>
 
 <!--
 **csa67/csa67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csa67&show_icons=true&locale=en&layout=compact" alt="csa67" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csa67&show_icons=true&locale=en" alt="csa67" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csa67&" alt="csa67" /></p>
